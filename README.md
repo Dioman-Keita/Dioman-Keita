@@ -50,6 +50,4 @@ Respecting the privacy and integrity of data is at the core of my work and value
 Feel free to add social links, contact info, or fun facts here in the future!
 -->
 
----
-
 Thanks for visiting my profile! 🚀
