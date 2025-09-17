@@ -2,7 +2,7 @@
 
 ## 🚀 Full Stack Developer
 
-Welcome to my GitHub! I am a passionate full stack developer with a focus on building robust, scalable, and thoughtful applications. My core stack revolves around **Vanilla JavaScript**, **TypeScript**, **Java**, **React**, **Node.js**, and **Express**. I strive to bring clarity and purpose to every line of code I write.
+Welcome to my GitHub! I am a passionate full stack developer with a focus on building robust, scalable, and thoughtful applications. My core stack revolves around **Vanilla JavaScript**, **TypeScript**, and more.
 
 ---
 
@@ -10,7 +10,7 @@ Welcome to my GitHub! I am a passionate full stack developer with a focus on bui
 
 > **"Every program or code has a heart—the central nucleus (noyau)—and all parts gravitate around it."**
 
-I believe in identifying and nurturing the core of every project. My development is guided by the paradigm of **Programmation Oriented Answer**: delivering solutions that are meaningful, precise, and centered on the project's true needs.
+I believe in identifying and nurturing the core of every project. My development is guided by the paradigm of **Programmation Oriented Answer**: delivering solutions that are meaningful, precise, and elegant.
 
 ---
 
@@ -23,13 +23,16 @@ Respecting the privacy and integrity of data is at the core of my work and value
 
 ### 🛠️ Top Skills
 
-- **JavaScript (Vanilla)**
-- **TypeScript**
-- **Java**
-- **React**
-- **Node.js**
-- **Express**
-- Full Stack Web Development
+| Language / Framework | Level         |
+|---------------------|--------------|
+| JavaScript (Vanilla)| Advanced     |
+| TypeScript          | Advanced     |
+| Java                | Intermediate |
+| C                   | Intermediate |
+| React               | Intermediate |
+| Node.js             | Intermediate |
+| Express             | Intermediate |
+| Full Stack Web Dev  | Advanced     |
 
 ---
 
@@ -45,6 +48,9 @@ Respecting the privacy and integrity of data is at the core of my work and value
   _E-commerce platform for fresh foods._
 
 ---
+
+### 📬 Contact
+- Email: diomankeita001@gmail.com
 
 <!--
 Feel free to add social links, contact info, or fun facts here in the future!
