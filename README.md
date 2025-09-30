@@ -1,4 +1,4 @@
-# Hi, I'm Dioman Keita 👋
+# Hi, I'm Dioman Keïta 👋
 
 ## 🚀 Full Stack Developer
 
