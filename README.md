@@ -36,24 +36,9 @@ Respecting the privacy and integrity of data is at the core of my work and value
 
 ---
 
-### 🌟 Featured Projects
-
-- [invoice-app](https://github.com/Dioman-Keita/invoice-app)  
-  _A flexible and efficient invoicing solution._
-- [To-Do-List-App](https://github.com/Dioman-Keita/To-Do-List-App)  
-  _A simple yet powerful task management tool._
-- [library-Management-System-](https://github.com/Dioman-Keita/library-Management-System-)  
-  _A comprehensive system for managing library resources._
-- [vegefoods-version-1.0.0](https://github.com/Dioman-Keita/vegefoods-version-1.0.0)  
-  _E-commerce platform for fresh foods._
-
----
-
 ### 📬 Contact
 - Email: diomankeita001@gmail.com
 
-<!--
-Feel free to add social links, contact info, or fun facts here in the future!
--->
+---
 
 Thanks for visiting my profile! 🚀
