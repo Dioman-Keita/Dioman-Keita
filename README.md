@@ -2,7 +2,7 @@
 
 ## 🚀 Full Stack Developer
 
-Welcome to my GitHub! I am a passionate full stack developer with a focus on building robust, scalable, and thoughtful applications. My core stack revolves around **Vanilla JavaScript**, **TypeScript**, and more.
+Welcome to my GitHub! I'm a passionate full stack developer focused on building robust, scalable, and thoughtful applications. My expertise centers around **Vanilla JavaScript**, **TypeScript**, and modern web technologies.
 
 ---
 
@@ -10,58 +10,88 @@ Welcome to my GitHub! I am a passionate full stack developer with a focus on bui
 
 > **"Every program or code has a heart—the central nucleus (noyau)—and all parts gravitate around it."**
 
-I believe in identifying and nurturing the core of every project. My development is guided by the paradigm of **Programmation Oriented Answer**: delivering solutions that are meaningful, precise, and elegant.
+I believe in identifying and nurturing the core of every project. My development approach follows the **Programmation Oriented Answer** paradigm: delivering solutions that are meaningful, precise, and elegant.
 
 ---
 
 ### 🔒 Development Principle
 
 **Confidentiality above all.**  
-Respecting the privacy and integrity of data is at the core of my work and values.
+Respecting the privacy and integrity of data is fundamental to my work and values.
 
 ---
 
-### 🛠️ Top Skills
+## 🛠️ Technical Stack
 
+### **Frontend & Backend**
 <p align="center">
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" title="JavaScript (Advanced)">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+</p>
+
+### **Languages & Tools**
+<p align="center">
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript (Advanced)">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
   </a>
-  <a href="https://www.java.com/" target="_blank" title="Java (Intermediate)">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
   </a>
-  <a href="https://www.cprogramming.com/" target="_blank" title="C (Intermediate)">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
   </a>
-  <a href="https://react.dev/" target="_blank" title="React (Intermediate)">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
   </a>
-  <a href="https://nodejs.org/" target="_blank" title="Node.js (Intermediate)">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
   </a>
-  <a href="https://expressjs.com/" target="_blank" title="Express (Intermediate)">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
-  </a>
-  <a href="#" title="Full Stack Web Dev (Advanced)">
-    <img src="https://img.shields.io/badge/Full%20Stack%20Web%20Dev-000?style=for-the-badge&logo=github" alt="Full Stack Web Dev" height="40"/>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="50" height="50"/>
   </a>
 </p>
 
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <b>
-    JavaScript (Advanced) • TypeScript (Advanced) • Java (Intermediate) • C (Intermediate) <br>
-    React (Intermediate) • Node.js (Intermediate) • Express (Intermediate) • Full Stack Web Dev (Advanced)
-  </b>
+  <img src="https://github-readme-stats.vercel.app/api?username=diomankeita&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diomankeita&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>
 
 ---
 
-### 📬 Contact
-- Email: diomankeita001@gmail.com
+## 📬 Let's Connect
+
+<p align="center">
+  <a href="mailto:diomankeita001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
 ---
 
-Thanks for visiting my profile! 🚀
+<div align="center">
+
+### Thanks for visiting my profile! 🚀
+
+![Visitors](https://komarev.com/ghpvc/?username=diomankeita&color=blueviolet)
+
+</div>
+
+---
+
+*"Crafting digital solutions with precision and purpose"* ✨
