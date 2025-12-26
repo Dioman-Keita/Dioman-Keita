@@ -44,15 +44,6 @@ I practice **Outcome-Driven Development**, focusing on delivering precise, elega
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dioman-Keita&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dioman-Keita&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
-
 ## 📬 Let's Connect
 
 Feel free to reach out if you'd like to collaborate on exciting projects or just chat about technology!
