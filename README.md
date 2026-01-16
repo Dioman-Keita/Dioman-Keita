@@ -42,13 +42,6 @@ I practice **Outcome-Driven Development**, focusing on delivering precise, elega
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tanjiro CSS](https://img.shields.io/badge/Tanjiro_CSS-Coming_Soon-A52A2A?style=flat-square)
 
----
-## 📈 GitHub Stats
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Dioman-Keita&theme=tokyonight&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 📬 Let's Connect
 
 Feel free to reach out if you'd like to collaborate on exciting projects or just chat about technology!
