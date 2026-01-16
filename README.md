@@ -43,6 +43,14 @@ I practice **Outcome-Driven Development**, focusing on delivering precise, elega
 ![Tanjiro CSS](https://img.shields.io/badge/Tanjiro_CSS-Coming_Soon-A52A2A?style=flat-square)
 
 ---
+## 📈 GitHub Stats
+
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dioman-Keita&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dioman-Keita&layout=compact&theme=tokyonight" />
+</p>
+
+---
 
 ## 📬 Let's Connect
 
