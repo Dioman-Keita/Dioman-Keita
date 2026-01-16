@@ -45,10 +45,7 @@ I practice **Outcome-Driven Development**, focusing on delivering precise, elega
 ---
 ## 📈 GitHub Stats
 
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dioman-Keita&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dioman-Keita&layout=compact&theme=tokyonight" />
-</p>
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Dioman-Keita&theme=tokyonight&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
