@@ -86,3 +86,30 @@ I build **reliable, scalable web applications** with a strong focus on **simplic
 <p align="center">
   <em>Build fast. Keep it simple. Make it scale.</em>
 </p>
+## 🚀 Featured Projects  
+
+### 🛒 Ika Sugu — E-commerce Platform  
+🔗 https://github.com/Dioman-Keita/ika-sugu  
+
+Production-ready e-commerce application built with a modern full-stack architecture.
+
+- ⚡ Next.js + TanStack Query  
+- 🧠 Prisma ORM & database design  
+- 💳 Payment integration (Stripe)  
+- 🚀 Deployed and actively used  
+
+👉 Built end-to-end: from backend logic to frontend UX  
+
+
+---
+
+### 🏦 Micro Banking Core System  
+🔗 https://github.com/niagnouma/micro-banking-core  
+
+Core backend system for managing micro-banking operations.
+
+- 🔌 Backend architecture & API design  
+- 🧩 Business logic for financial operations  
+- ⚙️ Built with Node.js ecosystem  
+
+👉 Contributed to system design and implementation  
