@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Dioman Keïta  
 
-### ⚡ Full Stack Engineer • Next.js • Systems Thinking  
+### ⚡ Full Stack Engineer • Next.js • Scalable Systems  
 
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dioman-Keita&bg_color=0d1117&color=ffffff&line=58a6ff&point=f85149&area=true&hide_border=true" />
@@ -10,36 +10,40 @@
 
 ## 🧠 About Me  
 
-I design and build **robust, scalable, and user-focused systems**.  
-Currently diving deeper into:
+I build **scalable, production-ready web applications** with a strong focus on architecture and performance.
 
-- ⚡ **Next.js & modern frontend architecture**
-- 🧠 **System design & domain-driven thinking**
-- 🐍 **Python for tooling & backend logic**
+Currently working with:
+- ⚡ **Next.js & modern frontend systems**
+- 🐍 **Python for backend & tooling**
+- 🐳 **Containerized environments (Docker)**
 
 ---
 
 ## 💭 Engineering Mindset  
 
-> *"Strong systems are built from a solid core. Everything else is just alignment."*
+> *"Strong systems start with a strong core."*
 
-I focus on:
-- 🎯 **Clarity over complexity**
-- 🧩 **Well-structured domain logic (DDD mindset)**
-- 🔐 **Security & privacy by default**
+- 🎯 Clarity over complexity  
+- 🧩 Domain-driven thinking  
+- 🔐 Security & privacy first  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-### 🚀 Main Stack  
+### 🚀 Core  
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,docker" />
 </p>
 
-### ⚙️ Backend & Tools  
+### ☁️ Infra & Platforms  
 <p>
-  <img src="https://skillicons.dev/icons?i=express,mysql,postgres,git,github" />
+  <img src="https://skillicons.dev/icons?i=vercel,supabase,cloudflare,postgres" />
+</p>
+
+### ⚙️ Tools  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,express" />
 </p>
 
 ### 🎨 Frontend  
@@ -59,9 +63,9 @@ I focus on:
 
 ## 🧪 Current Focus  
 
-- 🧱 Building **clean architectures**
-- ⚡ Creating **fast & scalable web apps**
-- 🔍 Exploring **advanced backend patterns**
+- 🧱 Designing **clean & scalable architectures**  
+- ⚡ Building **fast SaaS & web platforms**  
+- 🔍 Exploring **advanced backend patterns (DDD, infra)**  
 
 ---
 
@@ -73,5 +77,5 @@ I focus on:
 ---
 
 <p align="center">
-  <em>Building with precision, not noise.</em>
+  <em>Building systems that scale, not just code that works.</em>
 </p>
