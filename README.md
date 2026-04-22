@@ -1,68 +1,77 @@
-# Hi, I'm Dioman Keïta 👋
+# 👋 Hey, I'm Dioman Keïta  
 
-### 🚀 Full Stack Software Engineer 
+### ⚡ Full Stack Engineer • Next.js • Systems Thinking  
 
-A dedicated Full Stack Developer committed to building **robust**, **scalable**, and **user-centric** applications. I specialize in the modern web ecosystem, with a deep focus on **TypeScript**, **React**, and **Node.js**.
-
----
-
-### 💡 Engineering Philosophy
-
-> *"Software engineering is the art of nurturing the central nucleus (noyau) of a system. When the core is solid, everything else falls into place with precision and purpose."*
-
-I practice **Outcome-Driven Development**, focusing on delivering precise, elegant solutions that solve real-world problems while maintaining high architectural standards.
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dioman-Keita&bg_color=0d1117&color=ffffff&line=58a6ff&point=f85149&area=true&hide_border=true" />
+</p>
 
 ---
 
-### 🛡️ Core Values & Principles
+## 🧠 About Me  
 
-*   **Privacy by Design:** I hold data confidentiality and integrity as non-negotiable standards.
-*   **Security-First:** Implementing robust authentication and encryption across the stack.
-*   **Continuous Excellence:** Crafting clean, maintainable code that stands the test of time.
+I design and build **robust, scalable, and user-focused systems**.  
+Currently diving deeper into:
 
----
-
-## 🛠️ Technical Ecosystem
-
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-
-### ⚙️ Backend & Infrastructure
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-### 🎨 Frontend & Design
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tanjiro CSS](https://img.shields.io/badge/Tanjiro_CSS-Coming_Soon-A52A2A?style=flat-square)
+- ⚡ **Next.js & modern frontend architecture**
+- 🧠 **System design & domain-driven thinking**
+- 🐍 **Python for tooling & backend logic**
 
 ---
 
-## 📊 GitHub Stats
+## 💭 Engineering Mindset  
 
-<div align="left">
+> *"Strong systems are built from a solid core. Everything else is just alignment."*
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Dioman-Keita&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-
-
-## 📬 Let's Connect
-
-Feel free to reach out if you'd like to collaborate on exciting projects or just chat about technology!
-
-*   **Email:** [diomankeita001@gmail.com](mailto:diomankeita001@gmail.com)
-*   **GitHub:** [Dioman-Keita](https://github.com/Dioman-Keita)
+I focus on:
+- 🎯 **Clarity over complexity**
+- 🧩 **Well-structured domain logic (DDD mindset)**
+- 🔐 **Security & privacy by default**
 
 ---
 
-<div align="center">
-  <em>"Crafting digital solutions with precision, purpose, and integrity."</em> ✨
-</div>
+## 🛠️ Tech Stack  
+
+### 🚀 Main Stack  
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python" />
+</p>
+
+### ⚙️ Backend & Tools  
+<p>
+  <img src="https://skillicons.dev/icons?i=express,mysql,postgres,git,github" />
+</p>
+
+### 🎨 Frontend  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=Dioman-Keita&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## 🧪 Current Focus  
+
+- 🧱 Building **clean architectures**
+- ⚡ Creating **fast & scalable web apps**
+- 🔍 Exploring **advanced backend patterns**
+
+---
+
+## 📫 Contact  
+
+- 📧 diomankeita001@gmail.com  
+- 💻 github.com/Dioman-Keita  
+
+---
+
+<p align="center">
+  <em>Building with precision, not noise.</em>
+</p>
