@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Dioman Keïta  
 
-### ⚡ Full Stack Engineer • Next.js • Scalable Systems  
+### ⚡ Full Stack Engineer • Pragmatic Builder • Scalable Web Apps  
 
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dioman-Keita&bg_color=0d1117&color=ffffff&line=58a6ff&point=f85149&area=true&hide_border=true" />
@@ -10,22 +10,19 @@
 
 ## 🧠 About Me  
 
-I build **scalable, production-ready web applications** with a strong focus on architecture and performance.
+I build **reliable, scalable web applications** with a strong focus on **simplicity, performance, and real-world usability**.
 
-Currently working with:
-- ⚡ **Next.js & modern frontend systems**
-- 🐍 **Python for backend & tooling**
-- 🐳 **Containerized environments (Docker)**
+💡 I don't chase trends — I pick the right tools for the job.
 
 ---
 
-## 💭 Engineering Mindset  
+## ⚙️ How I Build  
 
-> *"Strong systems start with a strong core."*
-
-- 🎯 Clarity over complexity  
-- 🧩 Domain-driven thinking  
-- 🔐 Security & privacy first  
+- ⚡ **Next.js** when I need full-stack speed & DX  
+- 🎯 **React + Tailwind** for lightweight frontends  
+- 🔌 **Express / Hono** for flexible backends  
+- 🧠 **Prisma** for clean and maintainable data layers  
+- 🚀 **TanStack** for powerful client-side state & data fetching  
 
 ---
 
@@ -41,15 +38,25 @@ Currently working with:
   <img src="https://skillicons.dev/icons?i=vercel,supabase,cloudflare,postgres" />
 </p>
 
-### ⚙️ Tools  
+### ⚙️ Backend & Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,express" />
+  <img src="https://skillicons.dev/icons?i=express,git,github" />
 </p>
 
 ### 🎨 Frontend  
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind" />
 </p>
+
+---
+
+## 💭 Engineering Philosophy  
+
+> *"Simple systems scale better than complex ones."*
+
+- 🎯 Solve real problems, not theoretical ones  
+- 🧩 Keep business logic clean and explicit  
+- 🔐 Build with security and privacy in mind  
 
 ---
 
@@ -63,9 +70,9 @@ Currently working with:
 
 ## 🧪 Current Focus  
 
-- 🧱 Designing **clean & scalable architectures**  
-- ⚡ Building **fast SaaS & web platforms**  
-- 🔍 Exploring **advanced backend patterns (DDD, infra)**  
+- 🧱 Clean architecture & domain modeling  
+- ⚡ High-performance web apps  
+- 🔍 Backend patterns & system design  
 
 ---
 
@@ -77,5 +84,5 @@ Currently working with:
 ---
 
 <p align="center">
-  <em>Building systems that scale, not just code that works.</em>
+  <em>Build fast. Keep it simple. Make it scale.</em>
 </p>
