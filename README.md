@@ -63,5 +63,5 @@ I build **reliable, scalable web applications** with a strong focus on **simplic
 ## 📊 GitHub Stats  
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=Dioman-Keita&theme=github-dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Dioman-Keita&theme=dark&hide_border=true" />
 </p>
