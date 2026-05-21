@@ -26,40 +26,6 @@ I build **reliable, scalable web applications** with a strong focus on **simplic
 
 ---
 
-## 🛠️ Tech Stack  
-
-### 🚀 Core  
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,docker" />
-</p>
-
-### ☁️ Infra & Platforms  
-<p>
-  <img src="https://skillicons.dev/icons?i=vercel,supabase,cloudflare,postgres" />
-</p>
-
-### ⚙️ Backend & Tools  
-<p>
-  <img src="https://skillicons.dev/icons?i=express,git,github" />
-</p>
-
-### 🎨 Frontend  
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind" />
-</p>
-
----
-
-## 💭 Engineering Philosophy  
-
-> *"Simple systems scale better than complex ones."*
-
-- 🎯 Solve real problems, not theoretical ones  
-- 🧩 Keep business logic clean and explicit  
-- 🔐 Build with security and privacy in mind  
-
----
-
 ## 📊 GitHub Stats  
 
 <p align="left">
