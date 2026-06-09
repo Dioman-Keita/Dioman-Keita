@@ -1,33 +1,55 @@
-# 👋 Hey, I'm Dioman Keïta  
+# Dioman Keïta
 
-### ⚡ Full Stack Engineer • Pragmatic Builder • Scalable Web Apps  
+**Product engineer building developer tools and full-stack systems.**
 
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dioman-Keita&bg_color=0d1117&color=ffffff&line=58a6ff&point=f85149&area=true&hide_border=true" />
-</p>
+Based in Bamako, Mali.
 
----
+I care about business correctness as much as technical correctness. A feature is only complete when the UI, data model, and server logic tell the same story.
 
-## 🧠 About Me  
-
-I build **reliable, scalable web applications** with a strong focus on **simplicity, performance, and real-world usability**.
-
-💡 I don't chase trends — I pick the right tools for the job.
+When existing tools don't solve a problem well enough, I build my own.
 
 ---
 
-## ⚙️ How I Build  
+## Selected Projects
 
-- ⚡ **Next.js** when I need full-stack speed & DX  
-- 🎯 **React + Tailwind** for lightweight frontends  
-- 🔌 **Express / Hono** for flexible backends  
-- 🧠 **Prisma** for clean and maintainable data layers  
-- 🚀 **TanStack** for powerful client-side state & data fetching  
+### safets
+
+Static analysis CLI that detects runtime crash patterns TypeScript `strict: true` doesn't catch.
+
+Built on the TypeScript Compiler API with a strict read-only philosophy.
+
+### ika-sugu
+
+Server-first e-commerce platform designed around real-world commerce workflows, variant-first inventory management, atomic payment processing and end to end backoffice management and product lifecycle.
+
+### Amazing Labs
+
+Open-source software studio focused on pragmatic tools, educational projects, and developer experience.
+
+### Axiora
+
+Experimental lab for developer tooling, product engineering, and open-source infrastructure.
 
 ---
 
-## 📊 GitHub Stats  
+## Building With
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=Dioman-Keita&theme=dark&hide_border=true" />
-</p>
+TypeScript • Next.js • TanStack Start • React
+
+Prisma • PostgreSQL • Bun • Tailwind CSS
+
+---
+
+## Currently Exploring
+
+Rust
+
+---
+
+## Principles
+
+* Product understanding before implementation
+* Runtime safety matters as much as type safety
+* Simplicity scales better than cleverness
+* Developer experience is a feature
+* Learn in public, build in public
