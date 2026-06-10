@@ -43,6 +43,7 @@ Prisma • PostgreSQL • Bun • Tailwind CSS
 ## Currently Exploring
 
 Rust
+Convex
 
 ---
 
